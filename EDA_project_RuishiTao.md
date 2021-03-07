@@ -3,7 +3,7 @@ https://www.kaggle.com/mariaren/covid19-healthy-diet-dataset</p>
 > Dataset copy can also found in drive：
 https://drive.google.com/drive/u/0/folders/18cpebVnkuyhYq7a9ALHf-pxDClJxiaiW</p>
 > My Github blog link:
-https://ruishita.github.io/EDA_project_Ruishitao.html
+https://ruishita.github.io/EDA_project_RuishiTao.html
 
 I am going to do a data analysis using the dataset-`Covid-19 Health Diet Dataset`. My goal is to compare US with the country with lower confirmed in order to figure out the diet structure differences of the two countries I selected. I will try to get a conclusion on which country has a healthier diet structure which may be able to fight against the pandemic. Furthermore, I will explore the diet structure differences between countries with lower confirmed rates and higher confirmed rates, which involves most of the countries in the dataset.
 
